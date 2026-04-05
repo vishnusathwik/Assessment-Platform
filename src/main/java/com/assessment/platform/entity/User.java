@@ -2,6 +2,7 @@ package com.assessment.platform.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import java.util.List;
 
 @Entity
@@ -26,14 +27,17 @@ public class User {
     // Many-to-One: Many Users belong to one Company
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "company_id", nullable = false)
+    @JsonBackReference
     private Companies company;
     
     // One-to-Many: User has many UserRoles
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    @JsonBackReference
     private List<UserRoleMap> userRoles;
     
     // One-to-Many: User has many Attempts
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
+    @JsonBackReference
     private List<Attempts> attempts;
     
     public User() {}

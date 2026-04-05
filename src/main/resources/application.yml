@@ -1,0 +1,23 @@
+server:
+  port: 8443
+
+spring:
+  application:
+    name: assessment-platform
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/assessment_db?currentSchema=assessment_dev
+    username: postgres
+    password: postgres
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        default_schema: assessment_dev
+        format_sql: true
+        use_sql_comments: true
+logging:
+  level:
+    org.springframework.security: INFO

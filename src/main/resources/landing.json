@@ -1,0 +1,235 @@
+{
+  "markdown": "<a id='784f0e51-9089-4978-99e0-a65001cd2c4b'></a>\n\n<::logo: Government of India\nSATYAMEVA JAYATE\nThis logo features the Emblem of India, a representation of the Lion Capital of Ashoka at Sarnath, with the motto \"Satyameva Jayate\" (Truth Alone Triumphs) inscribed below it.::>\n\n<a id='d0077fe1-985a-4308-9709-f9ee769d80e5'></a>\n\n<::भारत सरकार\nGOVERNMENT OF INDIA\n: figure::>\n\n<a id='73f959e5-ee30-4bde-b8e7-c1200dd5a80b'></a>\n\nA headshot of a young man with short dark hair, dark eyes, and a light mustache and beard. He is wearing a striped green and blue collared shirt. The background is plain and light-colored.\n\n<a id='05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f'></a>\n\nप्रकाश रंजन\nPrakash Ranjan\nजन्म तिथि/ DOB: 05/07/1994\nपुरुष / MALE\n\n<a id='902fe844-0809-4dad-8d45-d5b30ee93fe3'></a>\n\n<::scan_code: QR code\nThis is a standard QR code with a dense pattern of black and white squares, appearing clear and well-defined with no apparent quality issues.:>\n\n<a id='0e5999e9-4a0e-455c-b073-62d28aa492cf'></a>\n\n9183 0074 6619\n\n<a id='6591da1a-39e5-4890-9ccc-4b4a53699687'></a>\n\nINCOME TAX DEPARTMENT                                                                      GOVT. OF INDIA\n                                                                                           सत्यमेव जयते\nTWITTERPREET SINGH\n\nBALWINDER SINGH\n\n14/05/1995\n\nPermanent Account Number\nBWZPS1234R\n\nTwitterpreet Singh\n\n[Emblem of India with \"सत्यमेव जयते\" and circular text \"आयकर INCOME TAX DEPARTMENT\"]\n[Hologram with Emblem]\n\n[Photo of person]\n062014",
+  "chunks": [
+    {
+      "markdown": "<a id='784f0e51-9089-4978-99e0-a65001cd2c4b'></a>\n\n<::logo: Government of India\nSATYAMEVA JAYATE\nThis logo features the Emblem of India, a representation of the Lion Capital of Ashoka at Sarnath, with the motto \"Satyameva Jayate\" (Truth Alone Triumphs) inscribed below it.::>",
+      "type": "logo",
+      "id": "784f0e51-9089-4978-99e0-a65001cd2c4b",
+      "grounding": {
+        "box": {
+          "left": 0.11158496886491776,
+          "top": 0.0034539401531219482,
+          "right": 0.20551520586013794,
+          "bottom": 0.09232113510370255
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='d0077fe1-985a-4308-9709-f9ee769d80e5'></a>\n\n<::भारत सरकार\nGOVERNMENT OF INDIA\n: figure::>",
+      "type": "figure",
+      "id": "d0077fe1-985a-4308-9709-f9ee769d80e5",
+      "grounding": {
+        "box": {
+          "left": 0.29121196269989014,
+          "top": 0.004005957394838333,
+          "right": 0.8644816875457764,
+          "bottom": 0.09250468015670776
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='73f959e5-ee30-4bde-b8e7-c1200dd5a80b'></a>\n\nA headshot of a young man with short dark hair, dark eyes, and a light mustache and beard. He is wearing a striped green and blue collared shirt. The background is plain and light-colored.",
+      "type": "figure",
+      "id": "73f959e5-ee30-4bde-b8e7-c1200dd5a80b",
+      "grounding": {
+        "box": {
+          "left": 0.0945841372013092,
+          "top": 0.14742082357406616,
+          "right": 0.36174634099006653,
+          "bottom": 0.40399789810180664
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f'></a>\n\nप्रकाश रंजन\nPrakash Ranjan\nजन्म तिथि/ DOB: 05/07/1994\nपुरुष / MALE",
+      "type": "text",
+      "id": "05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f",
+      "grounding": {
+        "box": {
+          "left": 0.3788987994194031,
+          "top": 0.1190972551703453,
+          "right": 0.8560184836387634,
+          "bottom": 0.282735675573349
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='902fe844-0809-4dad-8d45-d5b30ee93fe3'></a>\n\n<::scan_code: QR code\nThis is a standard QR code with a dense pattern of black and white squares, appearing clear and well-defined with no apparent quality issues.:>",
+      "type": "scan_code",
+      "id": "902fe844-0809-4dad-8d45-d5b30ee93fe3",
+      "grounding": {
+        "box": {
+          "left": 0.7465669512748718,
+          "top": 0.26852524280548096,
+          "right": 0.9470943808555603,
+          "bottom": 0.45434272289276123
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='0e5999e9-4a0e-455c-b073-62d28aa492cf'></a>\n\n9183 0074 6619",
+      "type": "text",
+      "id": "0e5999e9-4a0e-455c-b073-62d28aa492cf",
+      "grounding": {
+        "box": {
+          "left": 0.3622680604457855,
+          "top": 0.3901095390319824,
+          "right": 0.6870973110198975,
+          "bottom": 0.4618682861328125
+        },
+        "page": 0
+      }
+    },
+    {
+      "markdown": "<a id='6591da1a-39e5-4890-9ccc-4b4a53699687'></a>\n\nINCOME TAX DEPARTMENT                                                                      GOVT. OF INDIA\n                                                                                           सत्यमेव जयते\nTWITTERPREET SINGH\n\nBALWINDER SINGH\n\n14/05/1995\n\nPermanent Account Number\nBWZPS1234R\n\nTwitterpreet Singh\n\n[Emblem of India with \"सत्यमेव जयते\" and circular text \"आयकर INCOME TAX DEPARTMENT\"]\n[Hologram with Emblem]\n\n[Photo of person]\n062014",
+      "type": "card",
+      "id": "6591da1a-39e5-4890-9ccc-4b4a53699687",
+      "grounding": {
+        "box": {
+          "left": 0.0035987496376037598,
+          "top": 0.49845024943351746,
+          "right": 0.995728075504303,
+          "bottom": 0.9954148530960083
+        },
+        "page": 0
+      }
+    }
+  ],
+  "splits": [
+    {
+      "class": "page",
+      "identifier": "page_0",
+      "pages": [
+        0
+      ],
+      "markdown": "<a id='784f0e51-9089-4978-99e0-a65001cd2c4b'></a>\n\n<::logo: Government of India\nSATYAMEVA JAYATE\nThis logo features the Emblem of India, a representation of the Lion Capital of Ashoka at Sarnath, with the motto \"Satyameva Jayate\" (Truth Alone Triumphs) inscribed below it.::>\n\n<a id='d0077fe1-985a-4308-9709-f9ee769d80e5'></a>\n\n<::भारत सरकार\nGOVERNMENT OF INDIA\n: figure::>\n\n<a id='73f959e5-ee30-4bde-b8e7-c1200dd5a80b'></a>\n\nA headshot of a young man with short dark hair, dark eyes, and a light mustache and beard. He is wearing a striped green and blue collared shirt. The background is plain and light-colored.\n\n<a id='05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f'></a>\n\nप्रकाश रंजन\nPrakash Ranjan\nजन्म तिथि/ DOB: 05/07/1994\nपुरुष / MALE\n\n<a id='902fe844-0809-4dad-8d45-d5b30ee93fe3'></a>\n\n<::scan_code: QR code\nThis is a standard QR code with a dense pattern of black and white squares, appearing clear and well-defined with no apparent quality issues.:>\n\n<a id='0e5999e9-4a0e-455c-b073-62d28aa492cf'></a>\n\n9183 0074 6619\n\n<a id='6591da1a-39e5-4890-9ccc-4b4a53699687'></a>\n\nINCOME TAX DEPARTMENT                                                                      GOVT. OF INDIA\n                                                                                           सत्यमेव जयते\nTWITTERPREET SINGH\n\nBALWINDER SINGH\n\n14/05/1995\n\nPermanent Account Number\nBWZPS1234R\n\nTwitterpreet Singh\n\n[Emblem of India with \"सत्यमेव जयते\" and circular text \"आयकर INCOME TAX DEPARTMENT\"]\n[Hologram with Emblem]\n\n[Photo of person]\n062014",
+      "chunks": [
+        "784f0e51-9089-4978-99e0-a65001cd2c4b",
+        "d0077fe1-985a-4308-9709-f9ee769d80e5",
+        "73f959e5-ee30-4bde-b8e7-c1200dd5a80b",
+        "05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f",
+        "902fe844-0809-4dad-8d45-d5b30ee93fe3",
+        "0e5999e9-4a0e-455c-b073-62d28aa492cf",
+        "6591da1a-39e5-4890-9ccc-4b4a53699687"
+      ]
+    }
+  ],
+  "grounding": {
+    "784f0e51-9089-4978-99e0-a65001cd2c4b": {
+      "box": {
+        "left": 0.11158496886491776,
+        "top": 0.0034539401531219482,
+        "right": 0.20551520586013794,
+        "bottom": 0.09232113510370255
+      },
+      "page": 0,
+      "type": "chunkLogo",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "d0077fe1-985a-4308-9709-f9ee769d80e5": {
+      "box": {
+        "left": 0.29121196269989014,
+        "top": 0.004005957394838333,
+        "right": 0.8644816875457764,
+        "bottom": 0.09250468015670776
+      },
+      "page": 0,
+      "type": "chunkFigure",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "73f959e5-ee30-4bde-b8e7-c1200dd5a80b": {
+      "box": {
+        "left": 0.0945841372013092,
+        "top": 0.14742082357406616,
+        "right": 0.36174634099006653,
+        "bottom": 0.40399789810180664
+      },
+      "page": 0,
+      "type": "chunkFigure",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "05fd5dbe-0f64-4cf2-80d5-e0193e8fdf3f": {
+      "box": {
+        "left": 0.3788987994194031,
+        "top": 0.1190972551703453,
+        "right": 0.8560184836387634,
+        "bottom": 0.282735675573349
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 0.974,
+      "low_confidence_spans": []
+    },
+    "902fe844-0809-4dad-8d45-d5b30ee93fe3": {
+      "box": {
+        "left": 0.7465669512748718,
+        "top": 0.26852524280548096,
+        "right": 0.9470943808555603,
+        "bottom": 0.45434272289276123
+      },
+      "page": 0,
+      "type": "chunkScanCode",
+      "confidence": null,
+      "low_confidence_spans": []
+    },
+    "0e5999e9-4a0e-455c-b073-62d28aa492cf": {
+      "box": {
+        "left": 0.3622680604457855,
+        "top": 0.3901095390319824,
+        "right": 0.6870973110198975,
+        "bottom": 0.4618682861328125
+      },
+      "page": 0,
+      "type": "chunkText",
+      "confidence": 1,
+      "low_confidence_spans": []
+    },
+    "6591da1a-39e5-4890-9ccc-4b4a53699687": {
+      "box": {
+        "left": 0.0035987496376037598,
+        "top": 0.49845024943351746,
+        "right": 0.995728075504303,
+        "bottom": 0.9954148530960083
+      },
+      "page": 0,
+      "type": "chunkCard",
+      "confidence": 0.381,
+      "low_confidence_spans": [
+        {
+          "text": " with \"सत्यमे",
+          "span": [
+            332,
+            345
+          ],
+          "confidence": 0.886
+        },
+        {
+          "text": " text \"आयकर INCOME TAX DEPARTMENT",
+          "span": [
+            365,
+            398
+          ],
+          "confidence": 0.381
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "filename": "photo-collage.png.png",
+    "org_id": "tdgurlqqryky",
+    "page_count": 1,
+    "duration_ms": 6735,
+    "credit_usage": 3,
+    "job_id": "cms7torvt0d3ncx01ezcmkvda",
+    "version": "dpt-2-20260410",
+    "failed_pages": []
+  }
+}
